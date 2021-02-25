@@ -31,6 +31,7 @@ body {
     font-style: italic;
     border-bottom: solid 1px rgb(44, 44, 44);
     padding: 20px;
+    width: 1000px;
 }
 
 #author {
